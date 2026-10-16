@@ -1,0 +1,6 @@
+{
+  "name": "Sustainability Live — Innovation Command Center",
+  "description": "Exhibition command center and live IoT environmental monitoring dashboard for school sustainability projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
